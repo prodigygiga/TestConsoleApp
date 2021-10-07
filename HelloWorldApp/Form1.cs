@@ -22,6 +22,8 @@ namespace HelloWorldApp
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            int a = 5;
+            
             string k = "test";
             float f = 10.5f;
             double d = 15.2;
@@ -34,38 +36,10 @@ namespace HelloWorldApp
 
         }
 
-        private void txt_number1_TextChanged(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            if (txt_number1.Text == "")
-            {
-                sum -= a;
-                lbl_sum.Text = sum.ToString();
-                //MessageBox.Show("შემოიტანეთ რიცხვი 1!");
-            }
-            else
-            {
-                a = Convert.ToInt32(txt_number1.Text);
-                sum += a;
-                lbl_sum.Text = sum.ToString();
-            }
-
-        }
-
-        private void txt_number2_TextChanged(object sender, EventArgs e)
-        {
-            if (txt_number2.Text == "")
-            {
-                sum -= b;
-                lbl_sum.Text = sum.ToString();
-                //MessageBox.Show("შემოიტანეთ რიცხვი 2!");
-            }
-            else
-            {
-                b = Convert.ToInt32(txt_number2.Text);
-                sum += b;
-                lbl_sum.Text = sum.ToString();
-            }
-            
+            sum = Convert.ToInt32(txt_number1.Text) + Convert.ToInt32(txt_number2.Text);
+            lbl_sum.Text = sum.ToString();
         }
     }
 }
