@@ -16,3 +16,21 @@ C:\Users\Administrator\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\net5.0
 C:\Users\Administrator\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\net5.0-windows\ref\HelloWorldApp.dll
 C:\Users\Administrator\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\net5.0-windows\HelloWorldApp.pdb
 C:\Users\Administrator\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\net5.0-windows\HelloWorldApp.genruntimeconfig.cache
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\obj\Debug\net5.0-windows\HelloWorldApp.dll
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\obj\Debug\net5.0-windows\ref\HelloWorldApp.dll
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\obj\Debug\net5.0-windows\HelloWorldApp.pdb
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\bin\Debug\net5.0-windows\HelloWorldApp.exe
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\bin\Debug\net5.0-windows\HelloWorldApp.deps.json
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\bin\Debug\net5.0-windows\HelloWorldApp.runtimeconfig.json
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\bin\Debug\net5.0-windows\HelloWorldApp.runtimeconfig.dev.json
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\bin\Debug\net5.0-windows\HelloWorldApp.dll
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\bin\Debug\net5.0-windows\ref\HelloWorldApp.dll
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\bin\Debug\net5.0-windows\HelloWorldApp.pdb
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\obj\Debug\net5.0-windows\HelloWorldApp.csprojAssemblyReference.cache
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\obj\Debug\net5.0-windows\HelloWorldApp.Form1.resources
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\obj\Debug\net5.0-windows\HelloWorldApp.csproj.GenerateResource.cache
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\obj\Debug\net5.0-windows\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\obj\Debug\net5.0-windows\HelloWorldApp.AssemblyInfoInputs.cache
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\obj\Debug\net5.0-windows\HelloWorldApp.AssemblyInfo.cs
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\obj\Debug\net5.0-windows\HelloWorldApp.csproj.CoreCompileInputs.cache
+G:\Giga Grigalashvili\Learning\TestConsoleApp\HelloWorldApp\obj\Debug\net5.0-windows\HelloWorldApp.genruntimeconfig.cache

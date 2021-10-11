@@ -24,13 +24,51 @@ namespace HelloWorldApp
         {
             int a = 5;
             
-            string k = "test";
-            float f = 10.5f;
-            double d = 15.2;
-            decimal dc = 16.2313m;
-            
-            if (f == 10.5f)
+            //if ( a == 5)
+            //{
+            //    MessageBox.Show("a = 5");
+            //}
+            //else if ( a == 6 )
+            //{
+            //    MessageBox.Show("a = 6");
+            //}
+            //else if (a == 7)
+            //{
+            //    MessageBox.Show("a = 7");
+            //}
+            //else
+            //{
+            //    MessageBox.Show("a = 0");
+            //}
+
+            //int x = a == 5 ? 1 : 0;
+
+            //int y = a++;
+
+            //a = a + 1;
+            //int y = a;
+
+            //int y = a;
+            //a = a + 1;
+
+            //a /= 5;
+            //double result = Convert.ToDouble(a) / 5;
+            switch (a)
             {
+                case 5:
+                    MessageBox.Show("a = 5");
+                    break;
+                    goto case 7;
+                case 6:
+                case 9:
+                    MessageBox.Show("a = 6 or 9");
+                    break;
+                case 7:
+                    MessageBox.Show("a = 7");
+                    break;
+                default:
+                    MessageBox.Show("a = 0");
+                    break;
 
             }
 
