@@ -22,8 +22,42 @@ namespace HelloWorldApp
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            int a = 5;
+            //int a = 5;
+
+
+            // stack  -  value types      - Immutable way string
+            // int , bool, double, float
+
+            //heap  -  reference types    mutable way  - string
+            // string, class , object
+
+
+            //int b = 5;
+            //int c = b;
+            //b = 3;
+            //int d = ++c;
+            //c = 10;
+            //MessageBox.Show("c = " + c.ToString());
+
+            Person p1 = new Person();
+            p1.FirstName = "giorgi";
+            p1.LastName = "gogokhia";
+            p1.BirthDate = new DateTime(1997, 7, 9);
+
+            Person p2 = new Person();
+            p2.FirstName = p1.FirstName;
+
             
+            p1.LastName = "dea";
+
+
+            MessageBox.Show("FirstName = " + p2.FirstName);
+
+            //string a = "saba";
+            //string b = a;
+            //a = "tako";
+            //MessageBox.Show(b);
+
             //if ( a == 5)
             //{
             //    MessageBox.Show("a = 5");
@@ -53,24 +87,24 @@ namespace HelloWorldApp
 
             //a /= 5;
             //double result = Convert.ToDouble(a) / 5;
-            switch (a)
-            {
-                case 5:
-                    MessageBox.Show("a = 5");
-                    break;
-                    goto case 7;
-                case 6:
-                case 9:
-                    MessageBox.Show("a = 6 or 9");
-                    break;
-                case 7:
-                    MessageBox.Show("a = 7");
-                    break;
-                default:
-                    MessageBox.Show("a = 0");
-                    break;
+            //switch (a)
+            //{
+            //    case 5:
+            //        MessageBox.Show("a = 5");
+            //        break;
+            //        goto case 7;
+            //    case 6:
+            //    case 9:
+            //        MessageBox.Show("a = 6 or 9");
+            //        break;
+            //    case 7:
+            //        MessageBox.Show("a = 7");
+            //        break;
+            //    default:
+            //        MessageBox.Show("a = 0");
+            //        break;
 
-            }
+            //}
 
         }
 
