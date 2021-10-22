@@ -36,10 +36,11 @@ namespace HelloWorldApp
             //}
             //MessageBox.Show(sum.ToString());
 
-            //int x = int.MaxValue;
-            //MessageBox.Show(x.ToString());
-            //int y = x + 1;
-            //MessageBox.Show(y.ToString());
+            uint x = uint.MaxValue;
+            MessageBox.Show(x.ToString());
+            uint y = x + 1;
+            MessageBox.Show(y.ToString());
+            
             Person p1 = new Person();
             p1.FirstName = "dea";
             p1.LastName = "kapanadze";
@@ -74,7 +75,7 @@ namespace HelloWorldApp
             {
                 if (!item.IsOddCharsInFirstName())
                 {
-                    MessageBox.Show(item.GetPrintData("GR"));
+                    //MessageBox.Show(item.GetPrintData("GR"));
                 }
             }
 
